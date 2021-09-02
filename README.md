@@ -1,4 +1,5 @@
 # SQL
+#SQL
 # Question with Queries
 2. Produce the names and rating of all customers who have above average orders.
 
